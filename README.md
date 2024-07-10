@@ -1,2 +1,4 @@
-# algos
-# Java Algorithms Practice  A collection of classic algorithms implemented in Java.   ## Contents: - Data Structures - Sorting Algorithms - Searching Algorithms - Graph Algorithms - Dynamic Programming  Each algorithm includes implementation, unit tests. Contributions and feedback welcome!
+# Java Algorithms Practice
+
+This repository contains implementations of classic algorithms and data structures in Java. It serves as a learning resource for computer science students and a reference for coding interview preparation.
+
