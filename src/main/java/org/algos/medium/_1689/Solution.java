@@ -1,7 +1,7 @@
 package org.algos.medium._1689;
 
 public class Solution {
-    public int minPartitions(String n) {
+    public static int minPartitions(String n) {
         final int len = n.length();
         char max = '0';
 
